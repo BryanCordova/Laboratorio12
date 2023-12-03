@@ -1,0 +1,17 @@
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\bin\Debug\netstandard2.0\Laboratorio12.deps.json
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\bin\Debug\netstandard2.0\Laboratorio12.dll
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\bin\Debug\netstandard2.0\Laboratorio12.pdb
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.csproj.AssemblyReference.cache
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Views\Ejercicio.xaml.g.cs
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.AssemblyInfoInputs.cache
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.AssemblyInfo.cs
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.csproj.CoreCompileInputs.cache
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.sourcelink.json
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.dll
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\refint\Laboratorio12.dll
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.pdb
+E:\Laboratorio12-xamarin\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\ref\Laboratorio12.dll
